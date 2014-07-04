@@ -1,3 +1,4 @@
+% A demo shows how to use the neural network toolbox
 clear all; close all; clc;
 
 path(path, genpath('../Recg Digits with NN'));
